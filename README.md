@@ -7,5 +7,5 @@ I have thoroughly performed all the tasks and even tested the code by passing sa
 
 
 ```
-I used chatGPT for my assistance as I was not very well versed with Spring Boot's DB working. Needless to say, I understand the MVC architecture well.
+I used chatGPT for my assistance as I was not very well versed with Spring Boot's DB working.
 ```
